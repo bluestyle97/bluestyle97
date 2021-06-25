@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bluestyle97&count_private=true&theme=outrun&showicons=true)]()
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bluestyle97&langs_count=8&theme=outrun&layout=compact)]()
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bluestyle97&count_private=true&theme=algolia&show_icons=true)]()
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bluestyle97&langs_count=8&theme=algolia&layout=compact)]()
 <!--
 **bluestyle97/bluestyle97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
